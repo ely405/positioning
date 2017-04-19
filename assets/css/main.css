@@ -11,18 +11,29 @@ body{
 .box{
     width: 12.5rem;
     height: 12.5rem;
+    position: absolute;
 }
 
 #pink{
     background-color: #EE3E64;
+    left: 0;
+    top: 0;
 }
 
 #blue{
     background-color: #2B7DB9;
-    position: relative;
-    left: 12.5rem;
+    right: 0;
+    top: 0;
 }
 
 #green{
     background-color: #B7D84B;
+    left: 0;
+    bottom: 0;
+}
+
+#yellow{
+    background-color: #FAFF16;
+    right: 0;
+    bottom: 0;
 }
