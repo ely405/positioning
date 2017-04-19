@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 12.5rem;
+    height: 12.5rem;
+}
+
+#pink{
+    background-color: #EE3E64;
+}
+
+#blue{
+    background-color: #2B7DB9;
+}
+
+#green{
+    background-color: #B7D84B;
+}
